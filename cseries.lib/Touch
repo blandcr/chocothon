@@ -1,0 +1,1 @@
+SetFile -m "`date -s`" {1}
