@@ -1,1 +1,5 @@
-//#define DEBUG//#define ALPHA//#define BETA#define FINAL
+//#define DEBUG
+
+//#define ALPHA
+//#define BETA
+#define FINAL
